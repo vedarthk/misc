@@ -35,5 +35,5 @@ $ py.test
 Running program:
 
 ```shell
-$ python main.py
+$ python manager.py
 ```
