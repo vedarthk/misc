@@ -1,0 +1,26 @@
+{
+    "inventory": {
+        "Mobydick": ["Herman Melville"],
+        "Call of the wild": ["Jack London"],
+        "Catch-22": ["robert heller"],
+        "2 states": ["chetan bhagat"],
+        "3 states": ["chetan Bhagat"],
+        "99 states": ["isaac"]
+    },
+    "my_list": [
+        "2 states",
+        "Catch-22",
+        "I, Robot",
+        "Day of the jackal",
+        "Mobydick",
+        "chetan bhagat",
+        "jeffrey archer",
+        "isaac Asimov"
+    ],
+    "input_list": [
+        "day of the jackal",
+        "2 states",
+        "5 point someone",
+        "huckleberry finn"
+    ]
+}
